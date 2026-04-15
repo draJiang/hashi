@@ -1,4 +1,4 @@
-# hashi
+# Hashi
 
 Hashi turns spoken words into real-time translated subtitles, right on your Mac.
 
