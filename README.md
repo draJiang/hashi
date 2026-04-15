@@ -5,6 +5,17 @@ Hashi turns spoken words into real-time translated subtitles, right on your Mac.
 
 https://github.com/user-attachments/assets/dc2e2def-9676-4408-8972-ff748092dd7a
 
+## Languages
+
+- English
+- Simplified Chinese
+- Traditional Chinese
+- Spanish
+- French
+- Japanese
+- Korean
+- Arabic
+
 ## Usage
 1. [Download](https://github.com/draJiang/hashi/releases/latest/)
 
